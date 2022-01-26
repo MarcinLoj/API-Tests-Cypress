@@ -1,2 +1,11 @@
 node_modules/
-cypress*
+example.json
+profile.json
+users.json
+1-getting-started
+2-advanced-examples
+screenshots/
+commands.js
+index.js
+videos/
+downloads/
